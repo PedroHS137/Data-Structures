@@ -1,2 +1,2 @@
-# try1
-some data structures projects from years ago 
+# Data Structures
+some data structures projects from years ago (linked list and binary tree)
